@@ -1,5 +1,5 @@
-"Work 2 Selection Problem - Penyakamaayo" 
+#"Work 2 Selection Problem - Penyakamaayo" 
 
-*Update: Inventory.java still not working
+_**Update: Inventory.java still not working**_
 
-Currently pushed "unfinished" inventory_progress.java, in case I dont make it!!
+*Currently pushed "unfinished" inventory_progress.java*, **in case I dont make it!!**
